@@ -6,7 +6,7 @@ Bu repo, OOP'yi Java ile derinlemesine incelemek için oluşturulmuştur. Runner
 
 ## Konsol Görüntüsü
 
-![BusRouteAutomation Console](https://lh3.googleusercontent.com/pw/AMWts8Cow3yB47PSVneOBwsDc1Gl0Qe_99lcnccOKLHyj2v9o23-pouSNiv8C6NbUxermc7cigWlSIN7Efg0fckKNITAyYM3iwAtj7vNDELpavhOQmt4Pbkl1b1QV8OGIEsJs8eoeaS-Zdi516an26UcMxzORA=w416-h706-s-no?authuser=0)
+![GüzergahOtomasyon Konsol](https://lh3.googleusercontent.com/pw/AMWts8CH5w0icyz92a7YB8vAMlWKBQUvaaCmVL3e-3YQqnIxwIpucm3e4XaCBRNcR0MmzZ2sgEEVmGVjGiXBHONmrMabUNAtc1L1vfrDnOBAJHyGXvy0DrrLTv4ZlGnIyiMKmWRnf3JURC-Up5sQUCrSKb5dqg=w417-h720-s-no?authuser=0)
 
 ## Yükleme
 
