@@ -6,7 +6,7 @@ Bu repo, OOP'yi Java ile derinlemesine incelemek için oluşturulmuştur. Runner
 
 ## Konsol Görüntüsü
 
-![GüzergahOtomasyon Konsol](https://lh3.googleusercontent.com/pw/AMWts8CH5w0icyz92a7YB8vAMlWKBQUvaaCmVL3e-3YQqnIxwIpucm3e4XaCBRNcR0MmzZ2sgEEVmGVjGiXBHONmrMabUNAtc1L1vfrDnOBAJHyGXvy0DrrLTv4ZlGnIyiMKmWRnf3JURC-Up5sQUCrSKb5dqg=w417-h720-s-no?authuser=0)
+![GüzergahOtomasyon Konsol](https://lh3.googleusercontent.com/pw/AMWts8AqEAVsdKssCYznGdZCexNIMp7sfuPBPBXYG4Hnp5RRWYNq9TepqnEWcFA7SvSzQvFKnMoTEqrUzpbwYyD9YpF-Fz7pfQz8En3kwowuOqwDua1dv7IQi_PUXuFSIykmrklXqlMq4QTGPHRPj06Jpxg2qA=w440-h717-s-no?authuser=0)
 
 ## Yükleme
 
