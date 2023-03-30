@@ -22,7 +22,6 @@ Bu repo, OOP'yi Java ile derinlemesine incelemek için oluşturulmuştur. Runner
 
 4. src içindeki OtobusTest sınıfını çalıştırın.
 
-> FOR TURKISH VERSION ==> [BusRouteAutomationTR]()
 
 ## Yazılım & Araçlar
 
